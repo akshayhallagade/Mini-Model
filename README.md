@@ -1,2 +1,2 @@
 # MINI MODEL
-## Automatic Train Sanitation System.
+## Automatic Train Sanitation System. (Patent.)
